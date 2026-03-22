@@ -89,6 +89,7 @@ const allProjects = [
     cardDescription: 'Designed and developed the official website for Team Sea Sakthi, with modern UI/UX and smooth GSAP animations.',
     highlights: ['GSAP', 'UI/UX Design', 'Frontend'],
     image: '/images/image-13.jpg',
+    link: 'https://seasakthi.com',
     details: {
       description: [
         "Designed and developed the official website for Team Sea Sakthi, showcasing projects, achievements, and team activities.",
